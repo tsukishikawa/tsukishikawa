@@ -1,8 +1,23 @@
-👋 Hi, I'm Mariana Ishikawa, a student of Systems Analysis and Development with a passion for creating innovative and efficient solutions.
+# Hello, World!
+👋 I'm Mariana Ishikawa, a student of Systems Analysis and Development with a passion for creating innovative and efficient solutions.
 
-🔧 **Technologies**: JavaScript, Python, SQL, CSS  
-🌟 **Interests**: Web development, AI, backend  
+🌟 **Interests**: Web development, Cloud, Banco de Dados
 📚 **Projects**: Working on looking to improve my Python and backend development.
 
-📫 Contact me: [marianaishikawamota@gmail.com](mailto:marianaishikawamota@gmail.com)  
+## 🚀 Skills
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mari-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  
+
+</div>
+
+## 📫 Contact me
+<div> 
+  <a href = "mailto:marianaishikawamota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariana-ishikawa1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
