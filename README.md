@@ -2,7 +2,7 @@
 👋 I'm Mariana Ishikawa, a student of Systems Analysis and Development with a passion for creating innovative and efficient solutions.
 
 🌟 **Interests**: Web development, Cloud, Database, AWS
-📚 **Projects**: Working on looking to improve my Python and backend development.
+📚 **Projects**: Working on looking to improve my Java and cloud development.
 
 ## 🚀 Skills
 
